@@ -12,7 +12,7 @@ const App = () => {
 
     let data = [
         {
-            img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+            img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
             head:"Full Stack Development",
             content:"Best Full-Stack Development Project Ideas in 2024",
             data:"19 Jun 24",
