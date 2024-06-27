@@ -9,7 +9,7 @@ const Card = ({element,index}) => {
         <img
           class="card-img-top"
           src={element.img}
-          alt="Card image cap"
+          alt="guvi-img"
         />
         <div class="card-body text-center">
           <h5 class="card-title">{element.head}</h5>
