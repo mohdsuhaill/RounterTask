@@ -1,0 +1,30 @@
+.col {
+    display: flex;
+    flex-direction: row;
+    
+}
+.container {
+    display: flex;
+    height: 400px;
+    width: 300px;
+    box-shadow: 20px;
+    border-radius: 20px !important ;
+
+}
+.card {
+    box-shadow: 5px 5px 5px 5px rgb(236, 233, 233);
+    border-radius:20px;
+}
+.card-img-top {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.main{
+    display: flex;
+    border-radius:20px !important;
+    transition: transform .2s;
+    
+}
+.main:hover {
+    transform: scale(1.1);
+}

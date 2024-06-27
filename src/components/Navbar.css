@@ -1,0 +1,14 @@
+.navbar-nav .nav-item a{
+  text-decoration: none;
+  margin: 25px;
+  color: black;
+}
+.guvi { 
+  margin-left: 10px;
+ height: 30px;
+ width: auto;
+ border-radius: 20px;
+}
+.brand{
+  text-decoration: none !important;
+}
